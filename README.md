@@ -16,8 +16,8 @@ Application web de gestion de tâches avec authentification.
 3. Accéder à `http://localhost:8080/taskmanager/index.php`
 
 ## Compte de test
-- Identifiant : `test`
-- Mot de passe : `test`
+- Identifiant : `admin`
+- Mot de passe : `admin`
 
 ## Fonctionnalités
 - Inscription / Connexion
